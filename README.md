@@ -4,7 +4,7 @@
 <p align="center">
 
 <p align="center">
- <img src="https://img.shields.io/badge/platform-iOS-9cf.svg">
+ <img src="https://img.shields.io/badge/platform-iOS-9cf.svg">  <img src="https://img.shields.io/badge/Swift-5.2-orange">
  <p align="center">배민찬 서비스 일부를 똑같이 만들어 보는 프로젝트</p>
 </p>
 
